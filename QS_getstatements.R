@@ -29,10 +29,3 @@ write_rds(standards, "data_standards.rds")
 standards <- read_rds("data_standards.rds")
 
 
-#%>%
-  #  str_replace_all("https://www.nice.org.uk", "") %>% # Remove carriage return control character
-  #  str_trim()
-
-#remove_text <- gsub("https://www.nice.org.uk","",as.character(get_quality_standard$qualitystatement))
-#str_replace_all("https://www.nice.org.uk", "") %>% # Remove web address from 
- #   str_trim()  %>%
