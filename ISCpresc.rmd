@@ -1,0 +1,86 @@
+---
+title:"Breast cancer prescribing"
+author:"impact team"
+date:"22/09/2022"
+output:
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+        code_folding: "hide"
+---
+
+
+
+# Breast cancer prescribing
+
+```
+Breast cancer medicines observed and expected usage
+
+```
+
+# Abemaciclib
+
+## Summary/narrative
+
+```
+Abemaciclib observed and expected usage is...
+
+```
+
+```{r}
+library(tidyverse)
+library(magrittr)
+library(reactable)
+```
+
+```{r}
+Abemaciclib_data3 <- read.csv ("C:\\R_Projects\\myrepo\\Abemaciclib3.csv")
+ggplot(data=Abemaciclib_data3, aes(x=Year, y=People)) +
+    geom_bar(stat='identity',color="darkblue", fill="lightblue") + geom_hline(yintercept = 4059) 
+
+```
+
+## Eligible population 
+
+```
+Around 4,000 people are expected to recieve treatment with abemaciclib in England annually.
+This has been taken from the Resource impact template developed for the NICE technology appraisal 'Abemaciclib with endocrine therapy for adjuvant treatment of hormone receptor-positive, HER2-negative, node-positive early breast cancer at high risk of recurrencedor', published July 2022. 
+```
+```{r}
+Abemaciclib_table1<- read.csv("./Abemaciclib_table1.csv")
+reactable(Abemaciclib_table1)
+```
+
+## Observed usage
+```
+The table below is taken from data in the April 2022 publication of the innovation scorecard. It shoes secondary care prescribing data by quarter in England for abemaciclib, also includes the very small amount of primary care data observed in the period. 
+```
+
+```{r}
+Abemaciclib_table2<- read.csv("./Abemaciclib_table2.csv")
+reactable(Abemaciclib_table2)
+```
+## NICE guidance
+
+```{r}
+Abemaciclib_table3<- read.csv("./Abemaciclib_table3.csv")
+reactable(Abemaciclib_table3)
+```
+## Therapeutic indications 
+
+```
+### **Early Breast Cancer**
+Verzenios in combination with endocrine therapy is indicated for the adjuvant treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, node-positive early breast cancer at high risk of recurrence.
+In pre- or perimenopausal women, aromatase inhibitor endocrine therapy should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.
+
+### **Advanced or Metastatic Breast Cancer**
+Verzenios is indicated for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy.
+In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
+
+```
+
+
+
+
+
+
