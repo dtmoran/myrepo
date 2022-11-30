@@ -1,0 +1,509 @@
+Fyear,Geography,LDOB003A,LDOB079
+2021,England,152323,114547
+1920,England,145329,83952
+1819,England,138957,82339
+1718,England,133195,78382
+1617,England,127341,71640
+2021,NHS Barnsley CCG,750,434
+2021,NHS Bassetlaw CCG,60,55
+2021,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",75,62
+2021,NHS Berkshire West CCG,2102,1422
+2021,NHS Birmingham and Solihull CCG,4593,3426
+2021,NHS Black Country and West Birmingham CCG,5122,4345
+2021,NHS Blackburn with Darwen CCG,786,433
+2021,NHS Blackpool CCG,822,547
+2021,NHS Bolton CCG,747,547
+2021,NHS Brighton and Hove CCG,361,221
+2021,"NHS Bristol, North Somerset and South Gloucestershire CCG",4471,3306
+2021,NHS Buckinghamshire CCG,1892,1515
+2021,NHS Bury CCG,1029,705
+2021,NHS Calderdale CCG,261,191
+2021,NHS Cambridgeshire and Peterborough CCG,312,248
+2021,NHS Cannock Chase CCG,626,506
+2021,NHS Cheshire CCG,3095,2421
+2021,NHS Chorley and South Ribble CCG,1001,753
+2021,NHS County Durham CCG,388,298
+2021,NHS Coventry and Warwickshire CCG,3567,2598
+2021,NHS Derby and Derbyshire CCG,635,502
+2021,NHS Devon CCG,2126,1385
+2021,NHS Doncaster CCG,760,520
+2021,NHS East and North Hertfordshire CCG,335,268
+2021,NHS East Lancashire CCG,1709,933
+2021,NHS East Leicestershire and Rutland CCG,181,79
+2021,NHS East Riding of Yorkshire CCG,528,360
+2021,NHS East Staffordshire CCG,511,373
+2021,NHS East Sussex CCG,2413,1657
+2021,NHS Frimley CCG,2563,1932
+2021,NHS Fylde and Wyre CCG,718,530
+2021,NHS Gloucestershire CCG,907,761
+2021,NHS Greater Preston CCG,1089,722
+2021,NHS Halton CCG,693,503
+2021,"NHS Hampshire, Southampton and Isle of Wight CCG",4795,3617
+2021,NHS Herefordshire CCG,3419,2880
+2021,NHS Herts Valley CCG,2547,2111
+2021,"NHS Heywood, Middleton and Rochdale CCG",1347,1107
+2021,NHS Hull CCG,183,113
+2021,NHS Ipswich and East Suffolk CCG,80,57
+2021,NHS Kent and Medway CCG,8138,5652
+2021,NHS Kernow CCG,1400,960
+2021,NHS Kirklees CCG,235,169
+2021,NHS Knowsley CCG,834,605
+2021,NHS Leeds CCG,759,608
+2021,NHS Lincolnshire CCG,527,437
+2021,NHS Liverpool CCG,2637,2002
+2021,NHS Manchester CCG,3654,2659
+2021,NHS Mid Essex CCG,21,17
+2021,NHS Morecambe Bay CCG,1661,1051
+2021,NHS Newcastle Gateshead CCG,2312,1810
+2021,NHS Norfolk and Waveney CCG,686,516
+2021,NHS North Central London CCG,6057,4394
+2021,NHS North Cumbria CCG,1475,1130
+2021,NHS North East Essex CCG,817,647
+2021,NHS North East Lincolnshire CCG,150,121
+2021,NHS North East London CCG,7776,6367
+2021,NHS North Lincolnshire CCG,234,162
+2021,NHS North Staffordshire CCG,782,645
+2021,NHS North Tyneside CCG,786,588
+2021,NHS North West London CCG,4013,3180
+2021,NHS North Yorkshire CCG,379,310
+2021,NHS Northamptonshire CCG,630,467
+2021,NHS Northumberland CCG,531,420
+2021,NHS Nottingham and Nottinghamshire CCG,495,340
+2021,NHS Oldham CCG,1299,846
+2021,NHS Oxfordshire CCG,2560,2031
+2021,NHS Rotherham CCG,168,117
+2021,NHS Salford CCG,1042,757
+2021,NHS Sheffield CCG,766,518
+2021,NHS Shropshire and Telford and Wrekin CCG,2154,1568
+2021,NHS Somerset CCG,2867,2230
+2021,NHS South East London CCG,6669,5073
+2021,NHS South East Staffordshire and Seisdon Peninsula CCG,874,634
+2021,NHS South Sefton CCG,634,402
+2021,NHS South Tyneside CCG,983,848
+2021,NHS South West London CCG,6020,4881
+2021,NHS Southport and Formby CCG,671,471
+2021,NHS St Helens CCG,862,582
+2021,NHS Stafford and Surrounds CCG,469,386
+2021,NHS Stockport CCG,1357,826
+2021,NHS Stoke on Trent CCG,1545,1301
+2021,NHS Sunderland CCG,2109,1698
+2021,NHS Surrey Heartlands CCG,4027,2981
+2021,NHS Tameside and Glossop CCG,1189,909
+2021,NHS Tees Valley CCG,520,412
+2021,NHS Thurrock CCG,47,32
+2021,NHS Trafford CCG,922,678
+2021,NHS Vale of York CCG,472,367
+2021,NHS Wakefield CCG,31,28
+2021,NHS Warrington CCG,208,139
+2021,NHS West Essex CCG,228,156
+2021,NHS West Lancashire CCG,529,469
+2021,NHS West Leicestershire CCG,183,119
+2021,NHS West Suffolk CCG,296,212
+2021,NHS West Sussex CCG,1203,967
+2021,NHS Wigan Borough CCG,1040,878
+2021,NHS Wirral CCG,1791,1331
+1920,NHS Barnsley CCG,753,375
+1920,NHS Bassetlaw CCG,55,45
+1920,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",100,56
+1920,"NHS Bedfordshire, Luton and Milton Keynes CCG",80,49
+1920,NHS Berkshire West CCG,2033,1214
+1920,NHS Birmingham and Solihull CCG,4283,2293
+1920,NHS Black Country and West Birmingham CCG,4975,3112
+1920,NHS Blackburn with Darwen CCG,769,425
+1920,NHS Blackpool CCG,840,431
+1920,NHS Bolton CCG,589,392
+1920,NHS Brighton and Hove CCG,401,159
+1920,"NHS Bristol, North Somerset and South Gloucestershire CCG",4259,2437
+1920,NHS Buckinghamshire CCG,1741,849
+1920,NHS Bury CCG,1017,724
+1920,NHS Calderdale CCG,259,118
+1920,NHS Cambridgeshire and Peterborough CCG,290,206
+1920,NHS Cannock Chase CCG,612,305
+1920,NHS Cheshire CCG,2859,1922
+1920,NHS Chorley and South Ribble CCG,920,646
+1920,NHS County Durham CCG,453,306
+1920,NHS Coventry and Warwickshire CCG,3280,1410
+1920,NHS Derby and Derbyshire CCG,711,422
+1920,NHS Devon CCG,1946,1013
+1920,NHS Doncaster CCG,756,329
+1920,NHS Dorset CCG,16,6
+1920,NHS East and North Hertfordshire CCG,338,257
+1920,NHS East Lancashire CCG,1647,864
+1920,NHS East Leicestershire and Rutland CCG,193,122
+1920,NHS East Riding of Yorkshire CCG,483,243
+1920,NHS East Staffordshire CCG,516,235
+1920,NHS East Sussex CCG,2063,923
+1920,NHS Frimley CCG,2392,1318
+1920,NHS Fylde and Wyre CCG,683,401
+1920,NHS Gloucestershire CCG,1101,730
+1920,NHS Greater Preston CCG,862,527
+1920,NHS Halton CCG,619,346
+1920,"NHS Hampshire, Southampton and Isle of Wight CCG",4509,2651
+1920,NHS Herefordshire CCG,3109,1753
+1920,NHS Herts Valley CCG,2442,1686
+1920,"NHS Heywood, Middleton and Rochdale CCG",1260,722
+1920,NHS Hull CCG,178,68
+1920,NHS Ipswich and East Suffolk CCG,76,60
+1920,NHS Kent and Medway CCG,7156,2892
+1920,NHS Kernow CCG,1461,738
+1920,NHS Kirklees CCG,238,121
+1920,NHS Knowsley CCG,842,534
+1920,NHS Leeds CCG,742,531
+1920,NHS Leicester City CCG,36,4
+1920,NHS Lincolnshire CCG,566,253
+1920,NHS Liverpool CCG,2299,1405
+1920,NHS Manchester CCG,3269,1828
+1920,NHS Mid Essex CCG,114,84
+1920,NHS Morecambe Bay CCG,1550,956
+1920,NHS Newcastle Gateshead CCG,2192,1196
+1920,NHS Norfolk and Waveney CCG,646,345
+1920,NHS North Central London CCG,5576,3548
+1920,NHS North Cumbria CCG,1328,909
+1920,NHS North East Essex CCG,912,592
+1920,NHS North East Lincolnshire CCG,145,56
+1920,NHS North East London CCG,7360,5195
+1920,NHS North Lincolnshire CCG,232,150
+1920,NHS North Staffordshire CCG,769,476
+1920,NHS North Tyneside CCG,754,438
+1920,NHS North West London CCG,3577,2128
+1920,NHS North Yorkshire CCG,502,319
+1920,NHS Northamptonshire CCG,773,375
+1920,NHS Northumberland CCG,515,378
+1920,NHS Nottingham and Nottinghamshire CCG,476,327
+1920,NHS Oldham CCG,1251,773
+1920,NHS Oxfordshire CCG,2419,1462
+1920,NHS Rotherham CCG,267,142
+1920,NHS Salford CCG,1097,578
+1920,NHS Sheffield CCG,759,342
+1920,NHS Shropshire and Telford and Wrekin CCG,2096,1074
+1920,NHS Somerset CCG,2729,1612
+1920,NHS South East London CCG,6276,3827
+1920,NHS South East Staffordshire and Seisdon Peninsula CCG,850,404
+1920,NHS South Sefton CCG,623,261
+1920,NHS South Tyneside CCG,946,468
+1920,NHS South West London CCG,5836,3788
+1920,NHS Southport and Formby CCG,516,290
+1920,NHS St Helens CCG,766,355
+1920,NHS Stafford and Surrounds CCG,460,249
+1920,NHS Stockport CCG,1338,781
+1920,NHS Stoke on Trent CCG,1479,904
+1920,NHS Sunderland CCG,1955,1232
+1920,NHS Surrey Heartlands CCG,3920,1857
+1920,NHS Tameside and Glossop CCG,1070,645
+1920,NHS Tees Valley CCG,531,370
+1920,NHS Thurrock CCG,46,22
+1920,NHS Trafford CCG,889,506
+1920,NHS Vale of York CCG,389,228
+1920,NHS Wakefield CCG,355,292
+1920,NHS Warrington CCG,184,109
+1920,NHS West Essex CCG,229,134
+1920,NHS West Lancashire CCG,506,294
+1920,NHS West Leicestershire CCG,180,104
+1920,NHS West Suffolk CCG,434,240
+1920,NHS West Sussex CCG,1253,717
+1920,NHS Wigan Borough CCG,1003,693
+1920,NHS Wirral CCG,1640,1018
+1819,NHS Barnsley CCG,750,305
+1819,NHS Bassetlaw CCG,49,40
+1819,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",100,58
+1819,"NHS Bedfordshire, Luton and Milton Keynes CCG",72,47
+1819,NHS Berkshire West CCG,1960,1282
+1819,NHS Birmingham and Solihull CCG,4090,2239
+1819,NHS Black Country and West Birmingham CCG,4768,2991
+1819,NHS Blackburn with Darwen CCG,770,451
+1819,NHS Blackpool CCG,762,347
+1819,NHS Bolton CCG,547,390
+1819,NHS Brighton and Hove CCG,387,155
+1819,"NHS Bristol, North Somerset and South Gloucestershire CCG",4086,2356
+1819,NHS Buckinghamshire CCG,1705,856
+1819,NHS Bury CCG,986,733
+1819,NHS Calderdale CCG,259,115
+1819,NHS Cambridgeshire and Peterborough CCG,270,196
+1819,NHS Cannock Chase CCG,600,358
+1819,NHS Cheshire CCG,2716,1641
+1819,NHS Chorley and South Ribble CCG,891,582
+1819,NHS County Durham CCG,430,295
+1819,NHS Coventry and Warwickshire CCG,3063,1385
+1819,NHS Derby and Derbyshire CCG,685,400
+1819,NHS Devon CCG,1905,1185
+1819,NHS Doncaster CCG,741,388
+1819,NHS Dorset CCG,16,8
+1819,NHS East and North Hertfordshire CCG,334,247
+1819,NHS East Lancashire CCG,1582,849
+1819,NHS East Leicestershire and Rutland CCG,144,82
+1819,NHS East Riding of Yorkshire CCG,457,238
+1819,NHS East Staffordshire CCG,507,223
+1819,NHS East Sussex CCG,1987,893
+1819,NHS Frimley CCG,2185,1381
+1819,NHS Fylde and Wyre CCG,651,374
+1819,NHS Gloucestershire CCG,1053,745
+1819,NHS Greater Preston CCG,842,530
+1819,NHS Halton CCG,600,359
+1819,"NHS Hampshire, Southampton and Isle of Wight CCG",4363,2818
+1819,NHS Herefordshire CCG,3007,1913
+1819,NHS Herts Valley CCG,2354,1687
+1819,"NHS Heywood, Middleton and Rochdale CCG",1219,658
+1819,NHS Hull CCG,155,65
+1819,NHS Ipswich and East Suffolk CCG,68,55
+1819,NHS Kent and Medway CCG,6962,3118
+1819,NHS Kernow CCG,1371,720
+1819,NHS Kirklees CCG,228,98
+1819,NHS Knowsley CCG,831,569
+1819,NHS Leeds CCG,694,447
+1819,NHS Leicester City CCG,36,1
+1819,NHS Lincolnshire CCG,563,352
+1819,NHS Liverpool CCG,2187,1241
+1819,NHS Manchester CCG,3091,1748
+1819,NHS Mid Essex CCG,112,82
+1819,NHS Morecambe Bay CCG,1408,845
+1819,NHS Newcastle Gateshead CCG,2124,1168
+1819,NHS Norfolk and Waveney CCG,620,410
+1819,NHS North Central London CCG,5341,3284
+1819,NHS North Cumbria CCG,1264,828
+1819,NHS North East Essex CCG,869,570
+1819,NHS North East Lincolnshire CCG,136,70
+1819,NHS North East London CCG,6838,4955
+1819,NHS North Lincolnshire CCG,223,132
+1819,NHS North Staffordshire CCG,726,443
+1819,NHS North Tyneside CCG,709,415
+1819,NHS North West London CCG,3429,2223
+1819,NHS North Yorkshire CCG,500,349
+1819,NHS Northamptonshire CCG,758,399
+1819,NHS Northumberland CCG,459,322
+1819,NHS Nottingham and Nottinghamshire CCG,457,306
+1819,NHS Oldham CCG,1202,708
+1819,NHS Oxfordshire CCG,2352,1645
+1819,NHS Rotherham CCG,267,153
+1819,NHS Salford CCG,1072,632
+1819,NHS Sheffield CCG,738,367
+1819,NHS Shropshire and Telford and Wrekin CCG,2090,1135
+1819,NHS Somerset CCG,2643,1681
+1819,NHS South East London CCG,5891,3654
+1819,NHS South East Staffordshire and Seisdon Peninsula CCG,834,456
+1819,NHS South Sefton CCG,588,237
+1819,NHS South Tyneside CCG,903,452
+1819,NHS South West London CCG,5640,3749
+1819,NHS Southport and Formby CCG,481,306
+1819,NHS St Helens CCG,799,385
+1819,NHS Stafford and Surrounds CCG,444,177
+1819,NHS Stockport CCG,1326,733
+1819,NHS Stoke on Trent CCG,1418,838
+1819,NHS Sunderland CCG,1800,1181
+1819,NHS Surrey Heartlands CCG,3675,1754
+1819,NHS Tameside and Glossop CCG,999,483
+1819,NHS Tees Valley CCG,423,237
+1819,NHS Thurrock CCG,41,29
+1819,NHS Trafford CCG,846,461
+1819,NHS Vale of York CCG,383,195
+1819,NHS Wakefield CCG,357,269
+1819,NHS Warrington CCG,167,91
+1819,NHS West Essex CCG,214,138
+1819,NHS West Lancashire CCG,506,328
+1819,NHS West Leicestershire CCG,173,106
+1819,NHS West Suffolk CCG,229,147
+1819,NHS West Sussex CCG,1240,701
+1819,NHS Wigan Borough CCG,958,583
+1819,NHS Wirral CCG,1588,1028
+1718,NHS Barnsley CCG,733,318
+1718,NHS Bassetlaw CCG,47,42
+1718,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",91,65
+1718,"NHS Bedfordshire, Luton and Milton Keynes CCG",50,20
+1718,NHS Berkshire West CCG,1866,1137
+1718,NHS Birmingham and Solihull CCG,3838,2140
+1718,NHS Black Country and West Birmingham CCG,4514,2747
+1718,NHS Blackburn with Darwen CCG,760,457
+1718,NHS Blackpool CCG,778,376
+1718,NHS Bolton CCG,567,401
+1718,NHS Brighton and Hove CCG,398,158
+1718,"NHS Bristol, North Somerset and South Gloucestershire CCG",3950,2284
+1718,NHS Buckinghamshire CCG,1634,926
+1718,NHS Bury CCG,966,726
+1718,NHS Calderdale CCG,245,110
+1718,NHS Cambridgeshire and Peterborough CCG,258,182
+1718,NHS Cannock Chase CCG,567,281
+1718,NHS Cheshire CCG,2619,1657
+1718,NHS Chorley and South Ribble CCG,854,541
+1718,NHS County Durham CCG,391,239
+1718,NHS Coventry and Warwickshire CCG,3144,1570
+1718,NHS Derby and Derbyshire CCG,680,432
+1718,NHS Devon CCG,1837,1170
+1718,NHS Doncaster CCG,694,372
+1718,NHS Dorset CCG,14,8
+1718,NHS East and North Hertfordshire CCG,332,248
+1718,NHS East Lancashire CCG,1552,774
+1718,NHS East Leicestershire and Rutland CCG,205,137
+1718,NHS East Riding of Yorkshire CCG,441,273
+1718,NHS East Staffordshire CCG,497,251
+1718,NHS East Sussex CCG,1831,789
+1718,NHS Frimley CCG,2170,1274
+1718,NHS Fylde and Wyre CCG,643,324
+1718,NHS Gloucestershire CCG,967,689
+1718,NHS Greater Preston CCG,807,405
+1718,NHS Halton CCG,597,380
+1718,"NHS Hampshire, Southampton and Isle of Wight CCG",4034,2551
+1718,NHS Herefordshire CCG,2887,1903
+1718,NHS Herts Valley CCG,2234,1593
+1718,"NHS Heywood, Middleton and Rochdale CCG",1176,596
+1718,NHS Hull CCG,151,59
+1718,NHS Ipswich and East Suffolk CCG,73,55
+1718,NHS Kent and Medway CCG,6613,2885
+1718,NHS Kernow CCG,1159,682
+1718,NHS Kirklees CCG,224,102
+1718,NHS Knowsley CCG,791,625
+1718,NHS Leeds CCG,653,349
+1718,NHS Leicester City CCG,34,13
+1718,NHS Lincolnshire CCG,551,359
+1718,NHS Liverpool CCG,2083,1319
+1718,NHS Manchester CCG,2797,1241
+1718,NHS Mid Essex CCG,103,80
+1718,NHS Morecambe Bay CCG,1378,782
+1718,NHS Newcastle Gateshead CCG,2077,1102
+1718,NHS Norfolk and Waveney CCG,586,378
+1718,NHS North Central London CCG,4990,3168
+1718,NHS North Cumbria CCG,1203,708
+1718,NHS North East Essex CCG,810,560
+1718,NHS North East Lincolnshire CCG,139,62
+1718,NHS North East London CCG,6349,4469
+1718,NHS North Lincolnshire CCG,210,159
+1718,NHS North Staffordshire CCG,716,433
+1718,NHS North Tyneside CCG,681,403
+1718,NHS North West London CCG,3273,2141
+1718,NHS North Yorkshire CCG,490,322
+1718,NHS Northamptonshire CCG,735,379
+1718,NHS Northumberland CCG,415,315
+1718,NHS Nottingham and Nottinghamshire CCG,443,323
+1718,NHS Oldham CCG,1180,699
+1718,NHS Oxfordshire CCG,2192,1522
+1718,NHS Rotherham CCG,260,145
+1718,NHS Salford CCG,1057,741
+1718,NHS Sheffield CCG,688,367
+1718,NHS Shropshire and Telford and Wrekin CCG,2032,1193
+1718,NHS Somerset CCG,2531,1577
+1718,NHS South East London CCG,5775,3339
+1718,NHS South East Staffordshire and Seisdon Peninsula CCG,799,362
+1718,NHS South Sefton CCG,595,230
+1718,NHS South Tyneside CCG,856,441
+1718,NHS South West London CCG,5409,3347
+1718,NHS Southport and Formby CCG,458,273
+1718,NHS St Helens CCG,744,393
+1718,NHS Stafford and Surrounds CCG,428,177
+1718,NHS Stockport CCG,1289,735
+1718,NHS Stoke on Trent CCG,1341,715
+1718,NHS Sunderland CCG,1680,1094
+1718,NHS Surrey Heartlands CCG,3630,1995
+1718,NHS Tameside and Glossop CCG,956,467
+1718,NHS Tees Valley CCG,451,258
+1718,NHS Thurrock CCG,38,33
+1718,NHS Trafford CCG,846,403
+1718,NHS Vale of York CCG,370,198
+1718,NHS Wakefield CCG,330,249
+1718,NHS Warrington CCG,166,95
+1718,NHS West Essex CCG,206,113
+1718,NHS West Lancashire CCG,493,335
+1718,NHS West Leicestershire CCG,162,97
+1718,NHS West Suffolk CCG,364,218
+1718,NHS West Sussex CCG,1213,714
+1718,NHS Wigan Borough CCG,917,584
+1718,NHS Wirral CCG,1581,984
+1617,NHS Barnsley CCG,711,321
+1617,NHS Bassetlaw CCG,44,37
+1617,"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",83,61
+1617,"NHS Bedfordshire, Luton and Milton Keynes CCG",65,43
+1617,NHS Berkshire West CCG,1828,1032
+1617,NHS Birmingham and Solihull CCG,3696,1947
+1617,NHS Black Country and West Birmingham CCG,4269,2364
+1617,NHS Blackburn with Darwen CCG,735,441
+1617,NHS Blackpool CCG,679,279
+1617,NHS Bolton CCG,559,386
+1617,NHS Brighton and Hove CCG,307,138
+1617,"NHS Bristol, North Somerset and South Gloucestershire CCG",3873,2242
+1617,NHS Buckinghamshire CCG,1526,815
+1617,NHS Bury CCG,926,665
+1617,NHS Calderdale CCG,254,136
+1617,NHS Cambridgeshire and Peterborough CCG,253,178
+1617,NHS Cannock Chase CCG,543,250
+1617,NHS Cheshire CCG,2429,1439
+1617,NHS Chorley and South Ribble CCG,826,507
+1617,NHS County Durham CCG,366,196
+1617,NHS Coventry and Warwickshire CCG,3005,1511
+1617,NHS Derby and Derbyshire CCG,628,409
+1617,NHS Devon CCG,1736,1099
+1617,NHS Doncaster CCG,642,308
+1617,NHS Dorset CCG,12,5
+1617,NHS East and North Hertfordshire CCG,341,219
+1617,NHS East Lancashire CCG,1512,782
+1617,NHS East Leicestershire and Rutland CCG,197,139
+1617,NHS East Riding of Yorkshire CCG,442,170
+1617,NHS East Staffordshire CCG,508,264
+1617,NHS East Sussex CCG,1646,735
+1617,NHS Frimley CCG,2041,1181
+1617,NHS Fylde and Wyre CCG,559,299
+1617,NHS Gloucestershire CCG,936,682
+1617,NHS Greater Preston CCG,782,337
+1617,NHS Halton CCG,591,363
+1617,"NHS Hampshire, Southampton and Isle of Wight CCG",3821,2366
+1617,NHS Herefordshire CCG,2707,1766
+1617,NHS Herts Valley CCG,2168,1452
+1617,"NHS Heywood, Middleton and Rochdale CCG",1140,633
+1617,NHS Hull CCG,139,68
+1617,NHS Ipswich and East Suffolk CCG,63,50
+1617,NHS Kent and Medway CCG,6450,2809
+1617,NHS Kernow CCG,1123,695
+1617,NHS Kirklees CCG,211,109
+1617,NHS Knowsley CCG,777,548
+1617,NHS Leeds CCG,642,394
+1617,NHS Leicester City CCG,34,13
+1617,NHS Lincolnshire CCG,530,282
+1617,NHS Liverpool CCG,2026,1118
+1617,NHS Manchester CCG,2594,1045
+1617,NHS Mid Essex CCG,96,72
+1617,NHS Morecambe Bay CCG,1324,745
+1617,NHS Newcastle Gateshead CCG,2000,1108
+1617,NHS Norfolk and Waveney CCG,574,334
+1617,NHS North Central London CCG,4648,2577
+1617,NHS North Cumbria CCG,1175,548
+1617,NHS North East Essex CCG,771,514
+1617,NHS North East Lincolnshire CCG,124,66
+1617,NHS North East London CCG,6046,3904
+1617,NHS North Lincolnshire CCG,207,152
+1617,NHS North Staffordshire CCG,677,409
+1617,NHS North Tyneside CCG,651,369
+1617,NHS North West London CCG,3177,2047
+1617,NHS North Yorkshire CCG,468,300
+1617,NHS Northamptonshire CCG,730,377
+1617,NHS Northumberland CCG,407,256
+1617,NHS Nottingham and Nottinghamshire CCG,439,304
+1617,NHS Oldham CCG,1129,547
+1617,NHS Oxfordshire CCG,2094,1300
+1617,NHS Rotherham CCG,250,147
+1617,NHS Salford CCG,1059,547
+1617,NHS Sheffield CCG,668,278
+1617,NHS Shropshire and Telford and Wrekin CCG,1993,1119
+1617,NHS Somerset CCG,2343,1483
+1617,NHS South East London CCG,5461,3128
+1617,NHS South East Staffordshire and Seisdon Peninsula CCG,780,365
+1617,NHS South Sefton CCG,573,187
+1617,NHS South Tyneside CCG,818,461
+1617,NHS South West London CCG,5252,3171
+1617,NHS Southport and Formby CCG,399,194
+1617,NHS St Helens CCG,745,387
+1617,NHS Stafford and Surrounds CCG,412,168
+1617,NHS Stockport CCG,1224,643
+1617,NHS Stoke on Trent CCG,1313,771
+1617,NHS Sunderland CCG,1567,903
+1617,NHS Surrey Heartlands CCG,3592,1710
+1617,NHS Tameside and Glossop CCG,848,461
+1617,NHS Tees Valley CCG,403,264
+1617,NHS Thurrock CCG,33,25
+1617,NHS Trafford CCG,806,454
+1617,NHS Vale of York CCG,365,199
+1617,NHS Wakefield CCG,303,67
+1617,NHS Warrington CCG,160,98
+1617,NHS West Essex CCG,195,98
+1617,NHS West Lancashire CCG,491,316
+1617,NHS West Leicestershire CCG,166,98
+1617,NHS West Suffolk CCG,353,263
+1617,NHS West Sussex CCG,1126,581
+1617,NHS Wigan Borough CCG,858,566
+1617,NHS Wirral CCG,1549,1022
+1617,Unallocated,524,209
